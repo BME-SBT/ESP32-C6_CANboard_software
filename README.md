@@ -36,6 +36,7 @@ Be happy! Your enviroment works and you can start working on your first esp32 pr
 
 ## Bonus Step:
 ESP TOOL: https://espressif.github.io/esptool-js/
+
 ESP API REFFERENCE: https://docs.espressif.com/projects/esp-idf/en/v5.5.1/esp32c6/api-reference/index.html
 
 
